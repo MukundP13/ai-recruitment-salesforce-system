@@ -18,6 +18,11 @@ The system integrates Salesforce automation features such as **Flows, Approval P
 By combining automation and AI-driven insights, the system reduces manual screening effort, improves hiring consistency, and enhances recruitment decision-making.
 
 ---
+## Project Demonstration
+
+A full demonstration of the AIRCMS system can be viewed here:
+
+▶️ [Watch Demo Video](demo/aircms-demo.mp4)
 ## Quick Navigation
 
 [System Architecture](#system-architecture)  
